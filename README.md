@@ -140,6 +140,7 @@ For a dataset containing 5,000 records, pandas provides sufficient data processi
 1. Clone the repository:
 
 git clone https://github.com/troldata/Record-Linkage-with-Python.git
+
 cd Record-Linkage-with-Python
 
 2. Install the required packages: pip install pandas recordlinkage
