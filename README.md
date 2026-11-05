@@ -1,4 +1,4 @@
-# Record-Linkage-with-Python
+# Record_Linkage_with_Python
 This project implements a hybrid record linkage pipeline using the FEBRL4 dataset. The goal is to identify records referring to the same real-world entity across two datasets, even when some attributes are missing, inconsistent, or represented differently.
 
 The solution combines deterministic matching and probabilistic record linkage. It uses data quality assessment, data cleaning, phonetic encoding, blocking, and record pair comparison to improve matching efficiency while maintaining high matching accuracy.
