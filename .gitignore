@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
+.DS_Store
+
+# Environment variables and secrets
+.env
+
+# Raw datasets
+data/
